@@ -1,0 +1,17 @@
+{
+    "analysis": {
+        "current_trend": [
+            6.696868180615385,
+            7.153547321330275,
+            6.801919774439615,
+            7.16741978691206,
+            6.80383344363575
+        ],
+        "average_sleep_duration": 6.985060154804647,
+        "average_disturbances": 1.6,
+        "poor_sleep_detected": false
+    },
+    "suggestions": [
+        "Consider maintaining a consistent sleep schedule to improve your average sleep duration and quality."
+    ]
+}

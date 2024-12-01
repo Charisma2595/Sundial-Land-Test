@@ -1,0 +1,30 @@
+{
+    "sentiment_analysis_results": [
+        {
+            "date": "2024-11-22",
+            "sentiment": "negative",
+            "entry": "I feel really anxious about the upcoming presentation. It's overwhelming."
+        },
+        {
+            "date": "2024-11-21",
+            "sentiment": "positive",
+            "entry": "Had a great day today! Felt accomplished after finishing all my tasks."
+        },
+        {
+            "date": "2024-11-20",
+            "sentiment": "negative",
+            "entry": "Things are okay. Nothing too exciting happened today."
+        },
+        {
+            "date": "2024-11-19",
+            "sentiment": "positive",
+            "entry": "I am grateful for the support I received from my team. Feeling hopeful."
+        }
+    ],
+    "sentiment_summary": {
+        "positive": "50.00%",
+        "negative": "50.00%",
+        "neutral": "0.00%"
+    },
+    "feedback": "Your recent journal entries reflect a mix of emotions. Would you like to talk more about how you're feeling?"
+}

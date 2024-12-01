@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+statsmodels
+vaderSentiment==3.3.2
+streamlit
+matplotlib
